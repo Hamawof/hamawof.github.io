@@ -1,0 +1,9 @@
+a.bonusok.disabled {
+    border: 1px solid #EF5350 !important;
+    background-color: transparent !important;
+	color: #EF5350 !important;
+}
+
+#progressbar-text {
+	letter-spacing: 1px;
+}

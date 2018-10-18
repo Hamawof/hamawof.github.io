@@ -322,6 +322,15 @@ fieldset {
     border-radius: 100%;
 }
 
+/* MEDIA QUERIES IMG */
+@media screen and (max-width: 640px) {
+  .me-image img {
+  text-align: center;
+  padding: 15px;
+  float: right;
+  }
+}
+
 .skills h2 {
     margin-bottom: 30px;
 }
